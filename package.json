@@ -65,5 +65,6 @@
     "publishConfig": {
         "access": "public"
     },
+    "homepage": "https://slingshot.github.io/isrc",
     "repository": "github:slingshot/isrc"
 }
