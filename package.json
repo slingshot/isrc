@@ -31,7 +31,7 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "isrc-tools",
+    "name": "@ssh/isrc",
     "author": "Sanil Chawla",
     "module": "dist/isrc-tools.esm.js",
     "size-limit": [
